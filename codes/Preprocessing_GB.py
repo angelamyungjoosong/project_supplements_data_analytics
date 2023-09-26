@@ -19,12 +19,11 @@ def replace_word(tokenized_review):
         try:
             # 치환할 단어가 있는 경우에만 데이터 치환 수행
             if df_replace_list['before_replacement'][i] in tokenized_review:
-                replaced_token = tokenized_review.replace(df_replace_list['before_replacement'][i], df_replace_list['after_replacement'][i])
-                pass
-                replaced_tokens.append(replaced_token)
+                tokenized_review = tokenized_review.replace(df_replace_list['before_replacement'][i], df_replace_list['after_replacement'][i])
+                
         except Exception as e:
             print(f"Error 발생 / 에러명: {e}")
-    return replaced_tokens
+    return tokenized_review
 
 ## 확인용 
 print(replace_word('다욧트 stess 살이 빠지다 피치 달달 단맛'))
