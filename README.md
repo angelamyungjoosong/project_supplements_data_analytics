@@ -31,13 +31,16 @@ Topics(주제)란, 수집된 원문 내용에 담긴 다양한 키워드를 기�
 - 긍정적 리뷰와 부정적 리뷰에서 각각 토픽 10개씩 추출
 <div align="center">
 
-  [result_pos](https://angelamyungjoosong.github.io/project_supplements_data_analytics/data/visualized_positive.html)
+![result_positive](./data/visualized_positive.png)
 
-  그림 3. 긍정적 리뷰의 토픽 모델링 결과   
 
-  [result_neg](https://angelamyungjoosong.github.io/project_supplements_data_analytics/data/visualized_negative.html)
+  그림 3. [긍정적 리뷰의 토픽 모델링 결과](https://angelamyungjoosong.github.io/project_supplements_data_analytics/data/visualized_positive.html)(링크)   
 
-  그림 4. 부정적 리뷰의 토픽 모델링 결과   
+![result_negative](./data/visualized_negative.png)
+
+그림 4. [부정적 리뷰의 토픽 모델링 결과](https://angelamyungjoosong.github.io/project_supplements_data_analytics/data/visualized_negative.html)(링크)    
+
+  
 </div>
 
 ## 6. 인사이트 도출
