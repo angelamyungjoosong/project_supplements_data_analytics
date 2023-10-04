@@ -31,10 +31,10 @@ perplexity(혼잡도)가 적고, Coherence(일관성)이 높은 수치를 찾아
 ## 5. LDA 토픽 모델링 결과
 - ```pyLDAvis``` 패키지를 활용하여 LDA 토픽 모델링 결과 시각화
 - 긍정적 리뷰와 부정적 리뷰에서 각각 토픽 10개씩 추출
+
 <div align="center">
 
 ![result_positive](./data/visualized_positive.png)
-
 
   그림 3. [긍정적 리뷰의 토픽 모델링 결과](https://angelamyungjoosong.github.io/project_supplements_data_analytics/data/visualized_positive.html)(링크)   
 
@@ -42,7 +42,6 @@ perplexity(혼잡도)가 적고, Coherence(일관성)이 높은 수치를 찾아
 
 그림 4. [부정적 리뷰의 토픽 모델링 결과](https://angelamyungjoosong.github.io/project_supplements_data_analytics/data/visualized_negative.html)(링크)    
 
-  
 </div>
 
 ## 6. 인사이트 도출
