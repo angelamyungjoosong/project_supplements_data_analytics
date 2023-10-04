@@ -34,7 +34,7 @@ Topics(주제)란, 수집된 원문 내용에 담긴 다양한 키워드를 기�
 ![result_positive](./data/visualized_positive.png)
 
 
-  그림 3. [긍정적 리뷰의 토픽 모델링 결과](https://angelamyungjoosong.github.io/project_supplements_data_analytics/data/visualized_positive.html)(링크)   
+그림 3. [긍정적 리뷰의 토픽 모델링 결과](https://angelamyungjoosong.github.io/project_supplements_data_analytics/data/visualized_positive.html)(링크)   
 
 ![result_negative](./data/visualized_negative.png)
 
