@@ -36,12 +36,7 @@ perplexity(혼잡도)가 적고, Coherence(일관성)이 높은 수치를 찾아
 
 ![result_positive](./data/visualized_positive.png)
 
-<<<<<<< HEAD
-
-그림 3. [긍정적 리뷰의 토픽 모델링 결과](https://angelamyungjoosong.github.io/project_supplements_data_analytics/data/visualized_positive.html)(링크)   
-=======
   그림 3. [긍정적 리뷰의 토픽 모델링 결과](https://angelamyungjoosong.github.io/project_supplements_data_analytics/data/visualized_positive.html)(링크)   
->>>>>>> e7c572f3894f4ba6cdc3074c688b23a97a43d602
 
 ![result_negative](./data/visualized_negative.png)
 
